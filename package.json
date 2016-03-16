@@ -15,12 +15,12 @@
     }
   ],
   "bugs": {
-    "web": "https://github.com/LionsMouthDigital/vue-hex-dropdown/issues"
+    "web": "https://github.com/LionsMouthDigital/vue-hex-accordion/issues"
   },
   "repository": [
     {
       "type": "git",
-      "url": "https://github.com/LionsMouthDigital/vue-hex-dropdown.git"
+      "url": "https://github.com/LionsMouthDigital/vue-hex-accordion.git"
     }
   ],
   "main": "src/index.js",
