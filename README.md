@@ -1,4 +1,4 @@
-# Hex Dropdown
+# Hex Accordion
 
 > A Vue component for accordions in the Hex Framework.
 
