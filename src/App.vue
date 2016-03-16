@@ -1,0 +1,35 @@
+<template>
+  <div id="app">
+    <hex-accordions>
+      <hex-accordion active>
+        <hex-accordion-tab><h3>Bali</h3></hex-accordion-tab>
+        <hex-accordion-panel>
+          <p>Land o' da hexes.</p>
+        </hex-accordion-panel>
+      </hex-accordion>
+
+      <hex-accordion>
+        <hex-accordion-tab><h3>Dallas</h3></hex-accordion-tab>
+        <hex-accordion-panel>
+          <p>Land o' da Texas.</p>
+        </hex-accordion-panel>
+      </hex-accordion>
+    </hex-accordions>
+  </div>
+</template>
+
+<script>
+  import HexAccordions     from './components/HexAccordions.vue';
+  import HexAccordion      from './components/HexAccordion.vue';
+  import HexAccordionTab   from './components/HexAccordionTab.vue';
+  import HexAccordionPanel from './components/HexAccordionPanel.vue';
+
+  export default {
+    components: {
+      HexAccordions,
+      HexAccordion,
+      HexAccordionTab,
+      HexAccordionPanel
+    }
+  }
+</script>
