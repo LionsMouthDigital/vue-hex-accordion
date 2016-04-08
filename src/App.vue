@@ -56,17 +56,14 @@
 </template>
 
 <script>
-  import HexAccordions     from './components/HexAccordions.vue';
-  import HexAccordion      from './components/HexAccordion.vue';
-  import HexAccordionTab   from './components/HexAccordionTab.vue';
-  import HexAccordionPanel from './components/HexAccordionPanel.vue';
+  import HexAccordion from './Component.vue';
 
   export default {
     components: {
-      HexAccordions,
-      HexAccordion,
-      HexAccordionTab,
-      HexAccordionPanel
+      HexAccordions:     HexAccordion.HexAccordions,
+      HexAccordion:      HexAccordion.HexAccordion,
+      HexAccordionTab:   HexAccordion.HexAccordionTab,
+      HexAccordionPanel: HexAccordion.HexAccordionPanel,
     }
   }
 </script>
