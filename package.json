@@ -1,6 +1,6 @@
 {
   "name": "vue-hex-accordion",
-  "version": "1.0.0-beta.6",
+  "version": "1.0.0-beta.7",
   "description": "A Vue component for accordions in the Hex Framework from LionsMouth Digital.",
   "main": "src/component.js",
   "author": "Curtis Blackwell <blackwell.curtis@gmail.com>",
