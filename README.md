@@ -16,6 +16,9 @@ grunt serve
 grunt build
 ```
 
+## Issues
+Please report issues in the [Hex repo](https://github.com/LionsMouthDigital/Hex/issues).
+
 ## License
 [CC BY-SA 4.0][license]
 
