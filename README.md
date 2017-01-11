@@ -1,31 +1,3 @@
-# Hex Accordion
-*A Vue component for accordions in the Hex Framework.*
+# vue-hex-accordion
 
-See [Hex](https://github.com/LionsMouthDigital/Hex#using-hex-vue-components-wo-the-hex-framework)
-for usage and more information.
-
-## Build Setup
-```sh
-# install dependencies
-npm install
-
-# serve with BrowserSync
-grunt serve
-
-# build for production with minification
-grunt build
-```
-
-## Issues
-Please report issues in the [Hex repo](https://github.com/LionsMouthDigital/Hex/issues).
-
-## License
-[CC BY-SA 4.0][license]
-
-To simplify attribution, we've included a [humans.txt](humans.txt) template with our info pre-filled.
-Just drop it in the root directory of the project using Hex to comply with the minimum
-attribution requirement.
-
-[license]: http://creativecommons.org/licenses/by-sa/4.0/
-[lmd]: http://lionsmouth.digital
-[vue]: http://vuejs.org
+**DISCONTINUED** in favor of [Hex Toggle](https://github.com/LionsMouthDigital/vue-hex-toggle).
